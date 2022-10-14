@@ -20,8 +20,7 @@ public class RESTAssuredTest {
     private String token;
     private String firstName;
     private String lastName;
-    private String checkIn;
-    private String checkOut;
+
     private int roomid;
     private File authJson;
 
